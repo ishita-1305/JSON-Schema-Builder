@@ -16,6 +16,7 @@ const App = () => {
       style={{
         background: "linear-gradient(180deg, #000000 0%, #a9a8a8ff 100%)",
         color: "white",
+        // fontFamily: "Droid Sans, sans-serif",
       }}
     >
       <Navbar />
@@ -36,7 +37,7 @@ const App = () => {
       >
         <h1
           style={{
-            fontSize: "6rem",
+            fontSize: "4rem",
             fontWeight: "900",
             marginBottom: "20px",
             lineHeight: "1.2",
